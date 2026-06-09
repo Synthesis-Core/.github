@@ -13,7 +13,7 @@ Our workflow is built on control, efficiency, and the "Suckless" philosophy:
 
 ---
 
-### Upcoming Public Repositories
+### Active Repositories
 *   **`OurBackendServer-kt`**: Our primary API built with Ktor for high-concurrency environments.
 *   **`RootAccess`**: System security management and dotfiles orchestration.
 *   **`NeoVinicius`**: Highly optimized Neovim development environment.
